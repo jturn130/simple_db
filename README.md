@@ -1,8 +1,8 @@
-### Challenge to Build a Simple Database
+# Challenge to Build a Simple Database
 
 ## Instructions to Run Code:
 
-To get started, run this file in interactive mode (python -i dbs.py).
+To get started, run this file in interactive mode (python -i db.py).
 
 ## Thought Process Behind Code:
 
