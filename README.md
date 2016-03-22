@@ -2,7 +2,7 @@
 
 ## Instructions to Run Code:
 
-To get started, run this file in interactive mode (python -i turo.py).
+To get started, run this file in interactive mode (python -i dbs.py).
 
 ## Thought Process Behind Code:
 
